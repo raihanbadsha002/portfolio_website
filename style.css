@@ -3,7 +3,7 @@ body{
     font-family: 'Poppins', sans-serif;margin: 0;
 }
 #top_banner{
-    background-image: url(/images/top-banner.png);
+    background-image: url(./images/top-banner.png);
     height: 550px;
     background-repeat: no-repeat;
     padding-bottom: 150px;
@@ -42,7 +42,7 @@ p{
     text-transform: uppercase;
 }
 #second-banner{
-    background-image: url(/images/dream-bg.png);
+    background-image: url(./images/dream-bg.png);
     height: 580px;
     background-repeat: no-repeat; 
     background-position: right;
@@ -53,7 +53,7 @@ p{
     height: 55%;
 }
 .experience-area{
-    background-image: url(/images/exp-bg.png);
+    background-image: url(./images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
     height: 680px;
